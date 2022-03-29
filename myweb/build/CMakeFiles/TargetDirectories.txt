@@ -1,0 +1,3 @@
+/home/admin/Code/hsycode/myweb/build/CMakeFiles/rebuild_cache.dir
+/home/admin/Code/hsycode/myweb/build/CMakeFiles/edit_cache.dir
+/home/admin/Code/hsycode/myweb/build/CMakeFiles/MyWebServer.dir

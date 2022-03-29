@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/admin/Code/hsycode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/hsycode/TinyWebServer/webserver -I/home/admin/Code/hsycode/TinyWebServer/http -I/home/admin/Code/hsycode/TinyWebServer/lock -I/home/admin/Code/hsycode/TinyWebServer/threadpool -I/home/admin/Code/hsycode/TinyWebServer/timer -I/home/admin/Code/hsycode/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/main.cpp.o -c /home/admin/Code/hsycode/TinyWebServer/main.cpp",
+  "file": "/home/admin/Code/hsycode/TinyWebServer/main.cpp"
+},
+{
+  "directory": "/home/admin/Code/hsycode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/hsycode/TinyWebServer/webserver -I/home/admin/Code/hsycode/TinyWebServer/http -I/home/admin/Code/hsycode/TinyWebServer/lock -I/home/admin/Code/hsycode/TinyWebServer/threadpool -I/home/admin/Code/hsycode/TinyWebServer/timer -I/home/admin/Code/hsycode/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/webserver/webserver.cpp.o -c /home/admin/Code/hsycode/TinyWebServer/webserver/webserver.cpp",
+  "file": "/home/admin/Code/hsycode/TinyWebServer/webserver/webserver.cpp"
+},
+{
+  "directory": "/home/admin/Code/hsycode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/hsycode/TinyWebServer/webserver -I/home/admin/Code/hsycode/TinyWebServer/http -I/home/admin/Code/hsycode/TinyWebServer/lock -I/home/admin/Code/hsycode/TinyWebServer/threadpool -I/home/admin/Code/hsycode/TinyWebServer/timer -I/home/admin/Code/hsycode/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/http/http_conn.cpp.o -c /home/admin/Code/hsycode/TinyWebServer/http/http_conn.cpp",
+  "file": "/home/admin/Code/hsycode/TinyWebServer/http/http_conn.cpp"
+},
+{
+  "directory": "/home/admin/Code/hsycode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/hsycode/TinyWebServer/webserver -I/home/admin/Code/hsycode/TinyWebServer/http -I/home/admin/Code/hsycode/TinyWebServer/lock -I/home/admin/Code/hsycode/TinyWebServer/threadpool -I/home/admin/Code/hsycode/TinyWebServer/timer -I/home/admin/Code/hsycode/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/timer/lst_timer.cpp.o -c /home/admin/Code/hsycode/TinyWebServer/timer/lst_timer.cpp",
+  "file": "/home/admin/Code/hsycode/TinyWebServer/timer/lst_timer.cpp"
+},
+{
+  "directory": "/home/admin/Code/hsycode/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/hsycode/TinyWebServer/webserver -I/home/admin/Code/hsycode/TinyWebServer/http -I/home/admin/Code/hsycode/TinyWebServer/lock -I/home/admin/Code/hsycode/TinyWebServer/threadpool -I/home/admin/Code/hsycode/TinyWebServer/timer -I/home/admin/Code/hsycode/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/Utils/Utils.cpp.o -c /home/admin/Code/hsycode/TinyWebServer/Utils/Utils.cpp",
+  "file": "/home/admin/Code/hsycode/TinyWebServer/Utils/Utils.cpp"
+}
+]
