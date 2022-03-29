@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/admin/Code/mytest/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/mytest/TinyWebServer/webserver -I/home/admin/Code/mytest/TinyWebServer/http -I/home/admin/Code/mytest/TinyWebServer/lock -I/home/admin/Code/mytest/TinyWebServer/threadpool -I/home/admin/Code/mytest/TinyWebServer/timer -I/home/admin/Code/mytest/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/main.cpp.o -c /home/admin/Code/mytest/TinyWebServer/main.cpp",
+  "file": "/home/admin/Code/mytest/TinyWebServer/main.cpp"
+},
+{
+  "directory": "/home/admin/Code/mytest/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/mytest/TinyWebServer/webserver -I/home/admin/Code/mytest/TinyWebServer/http -I/home/admin/Code/mytest/TinyWebServer/lock -I/home/admin/Code/mytest/TinyWebServer/threadpool -I/home/admin/Code/mytest/TinyWebServer/timer -I/home/admin/Code/mytest/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/webserver/webserver.cpp.o -c /home/admin/Code/mytest/TinyWebServer/webserver/webserver.cpp",
+  "file": "/home/admin/Code/mytest/TinyWebServer/webserver/webserver.cpp"
+},
+{
+  "directory": "/home/admin/Code/mytest/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/mytest/TinyWebServer/webserver -I/home/admin/Code/mytest/TinyWebServer/http -I/home/admin/Code/mytest/TinyWebServer/lock -I/home/admin/Code/mytest/TinyWebServer/threadpool -I/home/admin/Code/mytest/TinyWebServer/timer -I/home/admin/Code/mytest/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/http/http_conn.cpp.o -c /home/admin/Code/mytest/TinyWebServer/http/http_conn.cpp",
+  "file": "/home/admin/Code/mytest/TinyWebServer/http/http_conn.cpp"
+},
+{
+  "directory": "/home/admin/Code/mytest/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/mytest/TinyWebServer/webserver -I/home/admin/Code/mytest/TinyWebServer/http -I/home/admin/Code/mytest/TinyWebServer/lock -I/home/admin/Code/mytest/TinyWebServer/threadpool -I/home/admin/Code/mytest/TinyWebServer/timer -I/home/admin/Code/mytest/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/timer/Timer.cpp.o -c /home/admin/Code/mytest/TinyWebServer/timer/Timer.cpp",
+  "file": "/home/admin/Code/mytest/TinyWebServer/timer/Timer.cpp"
+},
+{
+  "directory": "/home/admin/Code/mytest/TinyWebServer/build",
+  "command": "/usr/bin/g++   -I/home/admin/Code/mytest/TinyWebServer/webserver -I/home/admin/Code/mytest/TinyWebServer/http -I/home/admin/Code/mytest/TinyWebServer/lock -I/home/admin/Code/mytest/TinyWebServer/threadpool -I/home/admin/Code/mytest/TinyWebServer/timer -I/home/admin/Code/mytest/TinyWebServer/Utils  -g   -std=gnu++14 -o CMakeFiles/HelloServer.dir/Utils/Utils.cpp.o -c /home/admin/Code/mytest/TinyWebServer/Utils/Utils.cpp",
+  "file": "/home/admin/Code/mytest/TinyWebServer/Utils/Utils.cpp"
+}
+]
