@@ -1,3 +1,0 @@
-/home/admin/Code/mytest/TinyWebServer/build/CMakeFiles/rebuild_cache.dir
-/home/admin/Code/mytest/TinyWebServer/build/CMakeFiles/edit_cache.dir
-/home/admin/Code/mytest/TinyWebServer/build/CMakeFiles/HelloServer.dir

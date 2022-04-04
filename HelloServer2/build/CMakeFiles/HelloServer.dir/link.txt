@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/HelloServer.dir/main.cpp.o CMakeFiles/HelloServer.dir/webserver/webserver.cpp.o CMakeFiles/HelloServer.dir/http/http_conn.cpp.o CMakeFiles/HelloServer.dir/timer/Timer.cpp.o CMakeFiles/HelloServer.dir/Utils/Utils.cpp.o  -o HelloServer  -lpthread 
