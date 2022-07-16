@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/MyWebServer.dir/main.cpp.o CMakeFiles/MyWebServer.dir/myserver/webserver.cpp.o CMakeFiles/MyWebServer.dir/myhttp/myhttp.cpp.o CMakeFiles/MyWebServer.dir/mylistener/listener.cpp.o CMakeFiles/MyWebServer.dir/mytcpsession/tcpserver.cpp.o CMakeFiles/MyWebServer.dir/mytimer/mytimer.cpp.o  -o MyWebServer  -lpthread 
