@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/GIT/MemoryPool/build",
+  "command": "D:/mingw_w64/mingw64/bin/g++.exe  @CMakeFiles/MemPool.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/MemPool.dir/src/BlockManager.cpp.obj -c D:/GIT/MemoryPool/src/BlockManager.cpp",
+  "file": "D:/GIT/MemoryPool/src/BlockManager.cpp"
+},
+{
+  "directory": "D:/GIT/MemoryPool/build",
+  "command": "D:/mingw_w64/mingw64/bin/g++.exe  @CMakeFiles/MemPool.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/MemPool.dir/src/MemBlock.cpp.obj -c D:/GIT/MemoryPool/src/MemBlock.cpp",
+  "file": "D:/GIT/MemoryPool/src/MemBlock.cpp"
+},
+{
+  "directory": "D:/GIT/MemoryPool/build",
+  "command": "D:/mingw_w64/mingw64/bin/g++.exe  @CMakeFiles/MemPool.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/MemPool.dir/src/MemBuffer.cpp.obj -c D:/GIT/MemoryPool/src/MemBuffer.cpp",
+  "file": "D:/GIT/MemoryPool/src/MemBuffer.cpp"
+},
+{
+  "directory": "D:/GIT/MemoryPool/build",
+  "command": "D:/mingw_w64/mingw64/bin/g++.exe  @CMakeFiles/MemPool.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/MemPool.dir/src/MemPool.cpp.obj -c D:/GIT/MemoryPool/src/MemPool.cpp",
+  "file": "D:/GIT/MemoryPool/src/MemPool.cpp"
+},
+{
+  "directory": "D:/GIT/MemoryPool/build",
+  "command": "D:/mingw_w64/mingw64/bin/g++.exe  @CMakeFiles/MemPool.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/MemPool.dir/src/main.cpp.obj -c D:/GIT/MemoryPool/src/main.cpp",
+  "file": "D:/GIT/MemoryPool/src/main.cpp"
+}
+]

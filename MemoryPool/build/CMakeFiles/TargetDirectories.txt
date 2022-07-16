@@ -1,0 +1,3 @@
+D:/GIT/MemoryPool/build/CMakeFiles/MemPool.dir
+D:/GIT/MemoryPool/build/CMakeFiles/edit_cache.dir
+D:/GIT/MemoryPool/build/CMakeFiles/rebuild_cache.dir
